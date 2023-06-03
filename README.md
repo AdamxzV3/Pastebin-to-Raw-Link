@@ -11,7 +11,7 @@ A simple tool to convert a Pastebin link to the corresponding Pastebin raw link.
 
 ## Example :memo:
 
-```shell
-$ python pastebin_converter.py
+```
+python pastebin_converter.py
 Enter the Pastebin link: https://pastebin.com/abcdefg
 Raw link: https://pastebin.com/raw/abcdefg
